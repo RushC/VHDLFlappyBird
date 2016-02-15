@@ -1,0 +1,5 @@
+NET "Jump" LOC = "N3"; // SW7 -> Jump	
+                        
+NET "B2" LOC = "G1"; // LD7 -> B2		
+NET "B1" LOC = "P4"; // LD6 -> B1		
+NET "B0" LOC = "N4"; // LD5 -> B0		

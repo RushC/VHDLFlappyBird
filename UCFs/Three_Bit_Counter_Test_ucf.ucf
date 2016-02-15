@@ -1,0 +1,12 @@
+NET "count" LOC = "N3"; // SW7 -> count	
+NET "rst" LOC = "P11"; // SW0 -> rst	
+NET "clk" LOC = "G12"; // BTN0 -> clk	
+NET "R2" LOC = "B4"; // SW3 -> R2		
+NET "R1" LOC = "K3"; // SW2 -> R1		
+NET "R0" LOC = "L3"; // SW1 -> R0		
+                        
+NET "B2" LOC = "G1"; // LD7 -> B2		
+NET "B1" LOC = "P4"; // LD6 -> B1		
+NET "B0" LOC = "N4"; // LD5 -> B0		
+
+NET "clk" CLOCK_DEDICATED_ROUTE = FALSE;

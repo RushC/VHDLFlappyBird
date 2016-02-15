@@ -1,0 +1,21 @@
+NET "clk" LOC = "G12"; // clk - BTN0
+NET "rst" LOC = "P11"; // rst - SW0
+
+NET "R2" LOC = "B4"; // R2 - SW3
+NET "R1" LOC = "K3"; // R1 - SW2
+NET "R0" LOC = "L3"; // R0 - SW1
+     
+NET "A7" LOC = "L14"; // A7 - LD7
+NET "A6" LOC = "H12"; // A6 - LD6
+NET "A5" LOC = "N14"; // A5 - LD5
+NET "A4" LOC = "N11"; // A4 - LD4
+NET "A3" LOC = "P12"; // A3 - LD3
+NET "A2" LOC = "L13"; // A2 - LD2
+NET "A1" LOC = "M12"; // A1 - LD1
+NET "A0" LOC = "N13"; // A0 - LD0
+     
+NET "C2" LOC = "G1"; // C2 - LD7
+NET "C1" LOC = "P4"; // C1 - LD6
+NET "C0" LOC = "N4"; // C0 - LD5
+
+NET "clk" CLOCK_DEDICATED_ROUTE = FALSE;

@@ -1,0 +1,8 @@
+NET "en" LOC = "N3";
+NET "rst" LOC = "P11";
+NET "clk" LOC = "A7";
+
+NET "B1" LOC = "M11";
+NET "B0" LOC = "M5";
+
+NET "clk" CLOCK_DEDICATED_ROUTE = FALSE; 

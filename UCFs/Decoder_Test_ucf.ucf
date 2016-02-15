@@ -1,0 +1,12 @@
+NET "S2" LOC = "N3"; // SW7 -> S2
+NET "S1" LOC = "E2"; // SW6 -> S1
+NET "S0" LOC = "F3"; // SW5 -> S0
+                          
+NET "D7" LOC = "G1"; // LD7 -> D7
+NET "D6" LOC = "P4"; // LD6 -> D6
+NET "D5" LOC = "N4"; // LD5 -> D5
+NET "D4" LOC = "N5"; // LD4 -> D4
+NET "D3" LOC = "P6"; // LD3 -> D3
+NET "D2" LOC = "P7"; // LD2 -> D2
+NET "D1" LOC = "M11"; // LD1 -> D1
+NET "D0" LOC = "M5"; // LD0 -> D0
